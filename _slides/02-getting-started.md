@@ -1,14 +1,7 @@
 ---
 transition: zoom
+video: "https://youtu.be/BtLfH6wpzcU?feature=shared&t=20"
 ---
 
-## Getting started
+## Who am I
 
-Run the presentation using:
-
-```bash
-# With Bundle
-bundle exec jekyll serve
-```
-
-Check the basement slides by clicking the down arrow.
