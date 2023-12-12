@@ -1,6 +1,6 @@
 ---
 transition: zoom
-video: "https://youtu.be/BtLfH6wpzcU?feature=shared&t=20"
+video: "assets/video/whoami.mp4"
 ---
 
 ## Who am I
