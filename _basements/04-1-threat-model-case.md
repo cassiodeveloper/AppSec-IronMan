@@ -4,14 +4,6 @@ slide: 04-threat-modeling
 
 #### Iron Man 1
 
-**Threat**
-- Armed man
+The **threat** were `Armed man` and the main **goals** were: to escape the cave and go as far as possible, take no demage and attack.
 
-**Goals**
-- Escape the gave and go as far as possible
-- Take no demage
-- Attack
-
-**Lessons**
-- With the material he had, he did the best what he could
-- The Mark I would not defeat Thanos. Done is better than perfect!
+From this, we can get a few **lessons**: with the material he had, he did the best what he could and the Mark I would not defeat Thanos. `Done is better than perfect!`
