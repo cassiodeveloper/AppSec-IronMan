@@ -1,9 +1,9 @@
 ---
-slide: 02-getting-started
+slide: 02-who-am-I
 ---
 
-## Basement
+## Cássio Batista Pereira
 
-Basement slides can be put in the `_basements` folder.
+### a.k.a. @cassiodeveloper
 
-Use the `slide: slide-title` attribute to choose under which slide your basement will go.
+I'm 36 brazilian guy from `São Paulo, Brazil`
