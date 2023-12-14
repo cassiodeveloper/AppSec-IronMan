@@ -2,7 +2,7 @@
 slide: 04-threat-modeling
 ---
 
-#### Iron Man 1
+#### How
 
 Threat modeling should be used in environments where there is `significant security risk`.
 
