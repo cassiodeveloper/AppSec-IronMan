@@ -1,6 +1,5 @@
 ---
 slide: 04-threat-modeling
-background: assets/img/ironman1.jpg
 ---
 
 ### Iron Man 1

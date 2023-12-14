@@ -11,4 +11,4 @@ this is more or less what we will cover in this jouney:
 - Application Monitoring
 - AppSec Program
 
-for help, for one slide down ˅
+for help, go one slide down ˅
