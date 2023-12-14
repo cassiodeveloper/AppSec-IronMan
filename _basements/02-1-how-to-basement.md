@@ -1,5 +1,5 @@
 ---
-slide: 02-who-am-I
+slide: 02-whoami
 ---
 
 ## Cássio Batista Pereira
