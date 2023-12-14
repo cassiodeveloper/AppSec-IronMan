@@ -10,3 +10,5 @@ this is more or less what we will cover in this jouney:
 - Vulnerability Management
 - Application Monitoring
 - AppSec Program
+
+for help, for one slide down ˅
