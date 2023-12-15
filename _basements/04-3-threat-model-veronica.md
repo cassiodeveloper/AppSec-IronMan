@@ -1,6 +1,5 @@
 ---
 slide: 04-threat-modeling
-background: assets/img/circuit.jpeg
 ---
 
 #### Veronica a.k.a. Hulk Buster
