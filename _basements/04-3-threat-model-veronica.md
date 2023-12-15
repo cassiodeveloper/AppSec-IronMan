@@ -7,4 +7,4 @@ background: assets/img/circuit.jpeg
 
 HULK BUSTER `Veronica` was completely a threat modeling job, designed to contain the HULK (a specific threat) and it almost didn't work.
 
-![Veronica](assets/img/veronica.jpg "Veronica")
+![Veronica](assets/img/veronica.gif "Veronica")
