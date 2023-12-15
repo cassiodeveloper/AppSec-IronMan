@@ -109,7 +109,8 @@
 .reveal video,
 .reveal iframe {
   max-width: 95%;
-  max-height: 95%; }
+  max-height: 95%;
+  height: 300px; }
 
 .reveal strong,
 .reveal b {
