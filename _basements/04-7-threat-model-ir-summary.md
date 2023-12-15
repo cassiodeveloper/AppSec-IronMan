@@ -2,7 +2,7 @@
 slide: 04-threat-modeling
 ---
 
-The point here is:
+#### Summary
 
 - Your software version 1.0.1 must be better than 1.0.0.
   - Think like Tony Stak!
