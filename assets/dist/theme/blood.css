@@ -105,12 +105,17 @@
   line-height: 1.3; }
 
 /* Ensure certain elements are never larger than the slide itself */
-.reveal img,
-.reveal video,
 .reveal iframe {
   max-width: 95%;
   max-height: 95%;
-  height: 300px; }
+}
+
+.reveal img,
+.reveal video {
+  max-width: 95%;
+  max-height: 95%;
+  height: 300px; 
+}
 
 .reveal strong,
 .reveal b {
@@ -301,7 +306,7 @@
   font-weight: 700; }
 
 .reveal p code {
-  background-color: #23241f;
+  background-color: #a23;
   display: inline-block;
   border-radius: 7px; }
 
